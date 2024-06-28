@@ -7,6 +7,8 @@ import time
 from matplotlib import pyplot
 import numpy
 
+#Esto es un comentario
+
 if __name__ =='__main__':
     transforms_train = transforms.Compose([
         transforms.Resize((224,224)),
